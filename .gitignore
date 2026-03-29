@@ -1,0 +1,19 @@
+# Dependency folders (very large, no need to upload)
+node_modules/
+bower_components/
+
+# Environment variables (contains private keys/passwords)
+.env
+*.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build/Dist folders (auto-generated code)
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
